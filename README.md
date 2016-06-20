@@ -1,2 +1,3 @@
 # curso-ror
-Repositorio creado para prácticas de un curso de creación de aplicaciones Web
+Repositorio creado para prácticas de este curso de creación de aplicaciones Web:
+https://www.coursera.org/learn/aplicaciones-web
